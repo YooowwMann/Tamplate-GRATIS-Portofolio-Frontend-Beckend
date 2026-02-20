@@ -477,7 +477,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Lazuwardi as YooowwMann**
 
 - GitHub: [@YooowwMann](https://github.com/YooowwMann)
 - LinkedIn: [lazuwardi-m-s](https://linkedin.com/in/lazuwardi-m-s-809174334)
@@ -512,4 +512,5 @@ Made with ☕ and lots of 🚬💸
 [⬆ Back to Top](#-portfolio-website---modern--creative)
 
 </div>
+
 

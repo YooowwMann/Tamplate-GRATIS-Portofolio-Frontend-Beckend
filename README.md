@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Portfolio Banner](https://via.placeholder.com/1200x400/0a0a0a/00ff88?text=Modern+Portfolio+Website)
-
 **Portfolio website modern dengan animasi smooth, dark theme, dan desain minimalis yang keren!**
 
 [![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev)
@@ -514,3 +512,4 @@ Made with ☕ and lots of 🚬💸
 [⬆ Back to Top](#-portfolio-website---modern--creative)
 
 </div>
+
